@@ -17,7 +17,7 @@ The M-Pesa Finance Dashboard is a Streamlit application that helps you analyze a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/mpesa-finance-dashboard.git
+   git clone https://github.com/umeskia-levi/mpesa-finance-dashboard.git
    cd mpesa-finance-dashboard
    ```
 
